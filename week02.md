@@ -2,7 +2,7 @@
 
 ## Key Data analyst skills
 
-Analytical skills are qualities and characteristics associated with solving problems using facts.
+Analytical skills are qualities and characteristics associated with solving problems using facts.  Data-driven decision-making.
 
 * Curiosity is wanting to learn
 
@@ -18,14 +18,22 @@ Analytical skills are qualities and characteristics associated with solving prob
 
 Identifying and defining a problem and then solving it by using data in an organized, step-by-step manner
 
-### Five key aspects to to analytical thinking
+### Five key aspects to analytical thinking
 
-* Visualization
+* Visualization - Graphical organization of information
 
 * Strategy
 
-* Problem-orientation
+* Problem-orientation - Identify, describe, and solve problems
 
-* Correlation
+* Correlation - Relationship between pieces of data
 
-* Big-picture and detail-oriented thinking
+* Big-picture and detail-oriented thinking - When to look big and when to look small
+
+### Root causes
+
+* Ask why five times
+
+### Gap analysis
+
+A method for examining and evaluating how a process works currently in order to get where you want to be in the future
