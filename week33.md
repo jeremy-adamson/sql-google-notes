@@ -54,3 +54,9 @@ CSV - Comma Separated Values
 ### SQL best practices
 
 PDF for [SQL](https://d18ky98rnyall9.cloudfront.net/5vVDkB5qT1y1Q5Aeau9c_Q_6d0e31160e2e43479d172390d19853f1_DAC3-In-depth-guide_-SQL-best-practices.pdf?Expires=1660348800&Signature=Lbyiae7QGlJk0D8a7t~5lw83J0lOkV3YpQf6ly5bt7akHV5QFq~N88DBvETSDJKr-r4JxN3rRPwUqvKKHuer-~X6wGenhQtq1Z4N~3zb3zjnScMg5y8uPC4H0J83reCNv40iVvIMTGGVcfhGAEbvsi7~5ys4kATBe6jjydLlGao_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+### Regular expressions WILL NEED TO REVISIT
+
+* Start [here](https://sublime-text-unofficial-documentation.readthedocs.io/en/latest/search_and_replace/search_and_replace_overview.html)
+* Proceed to [here](https://www.regular-expressions.info/tutorialcnt.html)
+* Finish up [here](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
