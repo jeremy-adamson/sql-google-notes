@@ -22,6 +22,10 @@ Well-founded standard of right and wrong that prescribe what humans out to do, u
 
 Well-founded standards of right and wrong that dictate how data is collected, shared, and used
 
+### Data snonymization
+
+Finding out what forms of personal data (PII) can be used to itself or with other data to track down who a person is.  Typically during the cleaning process the data is de-identified
+
 ## Aspects of data ethics
 
 * Ownership
@@ -41,3 +45,10 @@ Well-founded standards of right and wrong that dictate how data is collected, sh
     * Legal right to access the data
 * Openness
   * Free access, usage, and sharing of data
+    * Be available and accessible to the public as a complete dataset
+    * Be provided udner terms that allow it to be reused and redistributed
+    * Allow universal participation so that anyone can use, reuse, and redistribute the data
+
+### Open Data Debate
+
+Important to balance openess and privacy when it comes to all the data out there
