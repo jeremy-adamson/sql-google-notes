@@ -1,81 +1,57 @@
 # Learning about data phases and tools
 
+[Home](README.md)
+
 ## Data analysis process includes
 
 * Asking - Who the stakeholders are and it's something that directly influences them
 
   * Ask effective questions
-
   * Define the problem
-
   * Use structured thinking
-
   * Communicate with others
 
 * Preparing - How to collect and store the data
 
   * Understand how data is generated and collected
-
   * Identify and use different data formats, types, and structures
-
   * Make sure data is unbiased and credible
-
   * Organize and protect data
-
 * Processing - Find and eliminate outliers, cleaning the data too
-
   * Create and transform data
-
   * Maintain data integrity
-
   * Test data (validate)
-
   * Clean data
-
   * Verify and report on cleaning results
 
 * Analyzing - Using tools to transform the information to draw conclusions
 
   * Use tools to format and transform data
-
   * Sort and filter data
-
   * Identify patterns and draw conclusions
-
   * Make predication and recommendations
-
   * Make data-driven decisions
 
 * Sharing - Interpreting results and sharing with stakeholders
 
   * Understand visualization
-
   * Create effective visuals
-
   * Bring data to life
-
   * Use data storytelling
-
   * Communicate to help others understand results
 
 * Acting - Up to the buisness to do this (case study)
 
   * Apply your insights
-
   * Solve problems
-
   * Make decisions
-
   * Create somehting new
 
 ## Tools Include - Aiding in data lifecycle
 
 * Spreadsheets
-
 * Databases
-
 * Query Languages
-
 * Visualization Software
 
 ### Definitions

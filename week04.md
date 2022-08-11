@@ -1,5 +1,7 @@
 # The ins and outs of core data tools
 
+[Home](README.md)
+
 ## Intro to spreadsheets
 
 Fairly basic although google sheet charts leave much to be desired

@@ -1,5 +1,7 @@
 # Raise the Steaks (Stakeholders)
 
+[Home](README.md)
+
 Stakeholders are people who have invested time, interest, and resources in the projects that you are working on.
 
 ## Types of Stakeholders

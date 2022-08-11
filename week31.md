@@ -1,5 +1,7 @@
 # Data Exploration
 
+[Home](README.md)
+
 ## Unit 3 Syllabus
 
 * Understanding data types and structures - how analysts decide which data to collect for analysis.  Structured and unstructured data, data types, and data formats in preparation for for data exploration

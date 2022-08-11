@@ -1,5 +1,7 @@
 # Thinking Analytically
 
+[Home](README.md)
+
 ## Key Data analyst skills
 
 Analytical skills are qualities and characteristics associated with solving problems using facts.  Data-driven decision-making.
