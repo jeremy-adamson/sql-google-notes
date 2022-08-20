@@ -56,3 +56,8 @@
 * Statistical significance - A measure of if there is an actual result or just background data noise
 
 Central limit theorem (CLT) gives the value of 30
+
+Statistical power - The probability of getting meaningful results from a test
+Hypothesis testing - A way to see if a survey of experiement has meaningful results
+
+For a number of studies you can use a sample size calculator in order to get the confidence level desired
