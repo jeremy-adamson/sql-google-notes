@@ -18,3 +18,53 @@ Data warehousing specialists develop processes and procedures to effectively sto
 
 ## Data-cleaning tools and techniques
 
+Combining data from multiple sources can lead to interesting and unintended results
+
+* Check for duplicates
+* Removing blanks in the data (spaces)
+* Fixing misspellings
+* Inconsistent capitalization
+* Incorrect punctuation and other typos
+
+* Mergers can cause interesting results like this
+
+## Common data-cleaning pitfalls
+
+* Not checking for spelling errors
+* Forgetting to document errors
+* Not checking for misfielded values
+* Overlooking missing values
+* Looking at a subset of data and not the whole picture
+* Losing track of the business objectives
+* Not fixing the source of the error
+* Not analyzing the system prior to data cleaning
+* Not backing up your data prior to data cleansing
+* Not accounting for data cleaning in your deadlines/process
+
+## Data cleaning features in spreadsheets
+
+* Conditional formatting - A spreadsheet tool that changes how cells appear when values meet specific conditions
+* Using delimiters to separate or split data within columns
+* Function - A set of instructins that performs a specific calculation using the data in a spreadsheet
+  * =COUNTIF(range, "value")
+  * =LEN(range)
+  * =LEFT(range, number of characters) - A function that gives you a set number of characters from the right side of a text string
+  * Same thing with RIGHT
+  * Another similar one with MID(range, reference starting point, number of middle characters)
+  * CONCATENATE(item 1, item 2)
+  * TRIM (range)
+
+## Workflow Automation
+
+FILL IN LATER FROM THE LINKS
+
+## Different data perspectives
+
+Pivot table - A data summarization tool that is used in data processing
+
+* TAKE A CLOSER LOOK AT PIVOT TABLES
+
+VLOOKUP - A function that searches for a certain value in a column to return a corresponding piece of information
+
+ * VLOOKUP(data to look up, 'where to look'!Range, column, false)
+
