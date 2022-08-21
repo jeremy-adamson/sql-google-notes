@@ -48,7 +48,7 @@ Combining data from multiple sources can lead to interesting and unintended resu
 * Function - A set of instructins that performs a specific calculation using the data in a spreadsheet
   * =COUNTIF(range, "value")
   * =LEN(range)
-  * =LEFT(range, number of characters) - A function that gives you a set number of characters from the right side of a text string
+  * =LEFT(range, number of characters) - A function that gives you a set number of characters from the left side of a text string
   * Same thing with RIGHT
   * Another similar one with MID(range, reference starting point, number of middle characters)
   * CONCATENATE(item 1, item 2)
@@ -66,5 +66,4 @@ Pivot table - A data summarization tool that is used in data processing
 
 VLOOKUP - A function that searches for a certain value in a column to return a corresponding piece of information
 
- * VLOOKUP(data to look up, 'where to look'!Range, column, false)
-
+* VLOOKUP(data to look up, 'where to look'!Range, column, false)
