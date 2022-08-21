@@ -48,6 +48,34 @@ Other documentation:
 
 ## Combine Multiple Data Sets
 
+Concatenate - A function that joins together two or more test strings
+CONCAT() - Combines strings from different tables
+Openness - Free access, usage, and sharing of data
 
+### Strings in spreadsheets
+
+* LEN - Length of a string
+* LEFT - Similar to RIGHT
+* RIGHT(cell, character to start at)
+* FIND(cell, condition)
+
+* CONCAT - Just the regular function
+* CONCAT_WS - Throws in a separator which is whatever is the first argument in the function
+* CONCAT with - Adds two or more strings using the + operator
 
 ## Get Support During Analysis
+
+What to do when you get stuck
+
+REVISIT THESE LATER ON:
+
+* [Keyboard Shortcuts for Excel](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f?ui=en-US&rs=en-US&ad=US)
+* [List of Spreadsheet functions Excel](https://exceljet.net/excel-functions)
+* [List of Spreadsheet formulas Excel](https://exceljet.net/formulas)
+* [Advanced Spreadsheet skills](https://www.slideshare.net/markjhonoxillo/advanced-spreadsheet-skills)
+* [Essential Excel Skills for Analyzing Data](https://learntocodewith.me/posts/excel-skills/)
+
+Best practices for seaching online
+
+* Mental model - thought process in how to approach a problem
+* Use the right terms/vocab
