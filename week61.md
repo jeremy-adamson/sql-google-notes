@@ -2,7 +2,7 @@
 
 The Graphic representation of data or information
 
-## Communivating your data insights
+## Communicating your data insights
 
 Four parts to combine for visualization and presentation [here](https://www.informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/)
 
@@ -52,6 +52,118 @@ Avoid misleading charts
 
 ## Understand data visualization
 
+### Graphs
+
+* Bar graphs - Size contrast or compare two or more values.  Yep, know these.
+* Line graphs - Helps audience understand shifts or changes in data
+* Pie charts - How much each part of something makes up the whole.
+* Maps - Organize things geographically
+
+[Types of charts/graphs](https://datavizcatalogue.com/#google_vignette)
+
+Think of where you want your audience to focus
+
+Histogram - A chart that shows how often data calues fall in to certain ranges
+Correlation charts - Show how values can be related to each other
+
+Static and Dynamic visualizations
+
+* In dynamic ones the users have some control over what they see
+* Tableau - A business intelligence and alaytics plaform that helps people see, understand, and make decisions with data
+
+When to use certain charts [video](https://www.youtube.com/watch?v=C07k0euBpr8):
+
+* Change - If something changes over time, probably a line or column chart
+* Clustering - If there is a collection of data points with similar or different values, show it through a distribution graph
+* Relativity - If things are in proportion to another thing, try a pie chart
+* Ranking - Position in a scale of achievement or status, try a column chart
+* Correlation - If you want to show a correlation between two things, try a scatter plot.
+
 ## Design data visualizations
 
+The elements of art:
+
+* Line
+* Shape
+* Color
+  * Hue
+  * Intensity - How bright or dull it is
+  * Value - Black or white added
+* Space
+* Movement
+
+Nine basic priciples of design:
+
+* Balance - Is it balanced around stuff like color and shape
+* Emphasis - Is there a focal point where you want the audience to look
+* Movement - The path that the observer's eye will travel
+* Pattern - Does stuff kinda have a visual pattern?
+* Repetition
+* Proportion - Mostly for pie charts
+* Rhythm - Beats me
+* Variety - Throw in some stuff so it doesn't all look the same
+* Unity - Is there a flow or point to it all that can be seen
+
+THE WHOLE POINT IS TO MAKE IT EASY FOR PEOPLE TO SEE THE CONCLUSION
+
+Data composition - Combining the individual parts in a visualization and displaying them together as a whole
+
+Elements for effective visuals (five second rule)
+
+* Clear meaning
+* Sophisticated use of contrast
+* Refined execution
+
+Design thinking - A process used to solve complex problems in a user-centric way
+
+Five phases of the design process:
+
+* Empathize - Think about the emotions and needs of your target audience
+* Define - Helps define actual problems from the visualizations
+* Ideate - Start to generate your data viz ideas (brainstorm)
+* Prototype - Do a rough draft and see how it is
+* Test - Show them for a peer review
+
 ## Explore visualization considerations
+
+* Headlines - At the top of the visualization communicating what data is being presented.  An attention grabbing title.
+  * Length: The width of the data frame
+  * Position: Above the data
+  * Don't:
+    * Use all caps
+    * Use italics
+    * Use acronyms
+    * Use humor
+* Subtitle - Gives a little bit of context to the headline
+  * Length: Shorter than the headline
+  * Position: Right below the headline
+  * Don't:
+    * Use undefined words
+    * Use all caps, bold, or italic
+    * Use acronyms or abbreviations
+* Labels - Things that identify what is being measured in a meaningful way
+  * Length: Usually fewer than 30 characters
+  * Position: Next to data or below or beside axes
+  * Additional:
+    * Use a few words only
+    * Use thoughtful color-coding
+    * Use callouts to point to the data
+* Annotation - Little blips that help focus the audience towards particular spots or data points
+  * Length: Varies, limited by open space
+  * Position: Immediately next to data annotated
+  * Don't:
+    * Use all caps, bold, or italic
+    * Use rotated text
+    * Distract from the data itself
+
+### Accessible visualizations
+
+Ways to make data visualizations accessible:
+
+* Labeling - Don't rely too much on legends
+* Text alternatives - provides additional context
+* Text-based format
+* Distiguishing - Color choices or making things stand out in various ways
+* Simplify - Don't make it too cluttered
+
+Color blindness easy [guide](http://web-accessibility.carnegiemuseums.org/design/color/)
