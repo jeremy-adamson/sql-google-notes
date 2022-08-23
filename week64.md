@@ -108,8 +108,33 @@ Your audience:
 
 ## Caveats and limitations to data
 
-Understanding stakeholder expectations will give an idea of what questions will be asked
+Anticipate questions:
 
-Make sure you have a clear understanding of the objective and what the stakeholders wanted
+* Understanding stakeholder expectations will give an idea of what questions will be asked
+* Make sure you have a clear understanding of the objective and what the stakeholders wanted
+
+Start with zero assumptions on the audience's understanding on the specific terms
+
+### Handling objections - Can be about the data, analysis, or findings
+
+* For data - Could be in appendix
+  * Where you got the data
+  * What systems it came from
+  * What tranformations happened to it
+  * How fresh and accurate is the data
+* For the analysis - Document the steps
+  * Is it reproducable
+  * Who did you give feedback from
+* Findings
+  * Do these findings exist in previous time periods?
+  * Did you control for the difference in your data?
+
+Responding to possible objections
+
+* Communicate assumptions made
+* Explain why your analysis might be different than expected
+* Acknowledge that those onbjections are valid and take steps to investigate it further
 
 ## Listen, respond, and include
+
+Appendix - Not really needed as part of the presentation itelf but more of a reference for the audience if questions go a little deeper than a typical presentation would allow for
