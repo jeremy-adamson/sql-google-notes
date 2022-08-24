@@ -80,4 +80,35 @@ CRAN (Comprehensieve R Archive Network) - Place for packages
 
 * A system of packages in R with a common design philosophy for data manipulation, exploration, and visualization
 
+Eight core tidyverse packages
+
+* ggpot2
+* tibble
+* tidyr
+* readr
+* purrr
+* dplyr
+* stringr
+* forcats
+
 ## Explore the tidyverse
+
+Four packages that are an essential part of the workflow for data analysts:
+
+* ggplot2 - Data visualization. Create a variety of data vix by applying different visual properties to the data variables in R
+* dplyr - Offers a consistent set of functions that help you complete some common data manipulation tasks
+* tidyr - Data cleaning. A package used for data cleaning to make tidy data.
+* readr - Importing data
+
+Factors - Store categorical data in R where the data values are limited and usually based on a finite group like country or year
+
+### Pipes
+
+Nested - In programming, describes code that performs a particular cunftion and is contained witthin code that perfoms a broader function
+
+* Call up data (and then)
+* Group the data (and then)
+* Summarize the grouped data using a mean function
+* Puts it into the first argument in the fucntion call on the following line
+
+Guides for learning more about R can be found [here](https://www.r-bloggers.com/2015/12/how-to-learn-r-2/#h.y5b98o9o2h1r)

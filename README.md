@@ -1,8 +1,10 @@
 # SQL Google Certificate
 
+8/10/22 - 9/1/22
+
 ## About the Course
 
-Class notes from the SQL Google certificate course on Coursera.  I thought that I'd get into SQL since I have a break between my Javascript and Python classes and will keep my reading notes here.  Also to have a side project to practice the skills learned in Code Fellows 102.
+Class notes from the SQL Google certificate course on Coursera.  SQL is a powerful tool in data analytics and took it upon myself to learn about the language during the break between my Javascript and Python courses.  In addition, documenting notes in this manner serves to have a project to practice the skills learned in Code Fellows 102.
 
 ## Pages
 
